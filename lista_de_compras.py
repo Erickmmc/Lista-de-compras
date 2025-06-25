@@ -4,7 +4,6 @@ Programa: Lista de Compras Interativa
 Descrição: Permite ao usuário adicionar, remover, listar e ordenar produtos com seus valores.
 Autor: Erick Cruz
 Data: Junho/2025
-Testanto push
 """
 # Imports
 from os.path import exists

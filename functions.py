@@ -2,8 +2,6 @@ import json
 import os
 import unicodedata
 
-#Testando push
-
 # CAMINHO_BASE: caminho absoluto da pasta onde o script está localizado.
 CAMINHO_BASE = os.path.dirname(os.path.abspath(__file__))
 
